@@ -12,5 +12,6 @@ The Boids algorithm simulates flocking using three core rules:
 ## Demo
 https://www.youtube.com/watch?v=gr-RXgJpnTI
 
-
+## Documentation
+Implementation details can be found [here](Assets\Documentation\)
 
