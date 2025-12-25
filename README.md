@@ -2,6 +2,7 @@
 
 A simple simulation of flocking behavior using the classic Boids rules.
 
+## Overview
 The Boids algorithm simulates flocking using three core rules:
 
 1. **Separation** – avoid crowding neighbors  
@@ -11,5 +12,5 @@ The Boids algorithm simulates flocking using three core rules:
 ## Demo
 https://www.youtube.com/watch?v=gr-RXgJpnTI
 
-## Overview
+
 
